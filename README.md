@@ -36,7 +36,14 @@ Select the new game option `GlompDev` and create the map. Once inside of the Tre
 
 Then, open the `File` menu in the menu bar and select both `Reload Material Collections` and `Reload Entity Definitions`. Use these options to refresh the material collections and entity definitions whenever you add textures and entities via the `trenchbroom/textures` directory and the Godot editor respectively.
 
-**You're ready to make maps!!!**
+**When saving your map, please make sure to save it to `maps/`, which is located at `trenchbroom/maps` in the main game repository.**
+
+## 5. Load a map into the game and run it
+To load a map into the game, duplicate the file `base_map.tscn` from the main game repository. Then, select the FuncGodotMap node, choose a `local_map_file`, and click `Build map`. Sometimes, it may try to load a cached version of the map, and you will need to select `Clear map` before building it again.
+
+**Now you're ready to make maps!!! \\^o^/**
 
 # Design philosophy
 This is gonna be a stub cuz I really don't know but **remember that this is a 2.5D platformer, currently with no Z-axis movement.** Eventually, there will be Z-axis movement, but for now there is no such thing and you should keep that in mind. You are essentially designing 2D levels in 3D space.
+
+**Feel free to contribute to this section, or any other part of the README.**
