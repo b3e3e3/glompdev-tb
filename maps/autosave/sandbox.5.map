@@ -45,6 +45,11 @@
 }
 // entity 3
 {
+"classname" "spawn_player"
+"origin" "-8 -168 108"
+}
+// entity 4
+{
 "classname" "env_wall"
 // brush 0
 {
@@ -59,14 +64,4 @@
 ( 16 -64 128 ) ( 48 48 144 ) ( 0 0 96 ) Grass_06-256x256 [ 0 1 0 -95.99999 ] [ 2.7755575615628914e-16 0 1 -56.10669 ] 270 1 1
 ( 48 -96 176 ) ( 48 48 144 ) ( 16 -64 128 ) Grass_06-256x256 [ 0 1 0 -96.000015 ] [ 0 0 -1 -32 ] 270 1 1
 }
-}
-// entity 4
-{
-"classname" "spawn_player"
-"origin" "8 -152 92"
-}
-// entity 5
-{
-"classname" "spawn_enemy"
-"origin" "-8 -72 188"
 }
