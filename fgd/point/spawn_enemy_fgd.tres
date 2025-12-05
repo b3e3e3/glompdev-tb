@@ -8,6 +8,7 @@
 script = ExtResource("1_88dlu")
 scene_file = ExtResource("1_aowys")
 script_class = ExtResource("3_bpr0r")
+apply_rotation_on_map_build = false
 classname = "spawn_enemy"
 description = "Spawn location for an enemy"
 auto_apply_to_matching_node_properties = true

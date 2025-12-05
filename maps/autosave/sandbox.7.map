@@ -41,12 +41,11 @@
 // entity 2
 {
 "classname" "spawn_item"
-"origin" "8 -8 184"
+"origin" "-40 -8 184"
 }
 // entity 3
 {
 "classname" "env_wall"
-"is_climbable" "0"
 // brush 0
 {
 ( -48 48 144 ) ( -48 -96 176 ) ( -32 0 96 ) Grass_06-256x256 [ 0 -1 0 96 ] [ 0 0 -1 -32 ] 270 1 1
@@ -64,10 +63,5 @@
 // entity 4
 {
 "classname" "spawn_enemy"
-"origin" "8 -72 188"
-}
-// entity 5
-{
-"classname" "spawn_player"
-"origin" "8 -168 92"
+"origin" "-8 -72 188"
 }
