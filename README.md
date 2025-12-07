@@ -32,7 +32,7 @@ Finally, edit the property `map_editor_game_path` to point to the cloned game re
 Click on the button that says `Export func_godot settings`. This will generate the needed config files to add the game to TrenchBroom.
 
 ## 4. Create a map & configure mods :D
-Select the new game option `GlompDev` and create the map. Once inside of the TrenchBroom editor, open the `Map` tab on the right and locate `trenchbroom` under the Available column. Double click on it to enable it.
+From the TrenchBroom start screen, click `New map...`. Select the new game option `GlompDev` and create the map. Once inside of the editor, open the `Map` tab on the right and locate `trenchbroom` under the Available column. Double click on it to enable it.
 
 Then, open the `File` menu in the menu bar and select both `Reload Material Collections` and `Reload Entity Definitions`. Use these options to refresh the material collections and entity definitions whenever you add textures and entities via the `trenchbroom/textures` directory and the Godot editor respectively.
 
