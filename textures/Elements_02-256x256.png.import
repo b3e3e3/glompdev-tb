@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqruqxjwo4q8s"
 path.s3tc="res://.godot/imported/Elements_02-256x256.png-c60a476342611d11bae6ef208fecead0.s3tc.ctex"
+path.etc2="res://.godot/imported/Elements_02-256x256.png-c60a476342611d11bae6ef208fecead0.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://trenchbroom/textures/Elements_02-256x256.png"
-dest_files=["res://.godot/imported/Elements_02-256x256.png-c60a476342611d11bae6ef208fecead0.s3tc.ctex"]
+dest_files=["res://.godot/imported/Elements_02-256x256.png-c60a476342611d11bae6ef208fecead0.s3tc.ctex", "res://.godot/imported/Elements_02-256x256.png-c60a476342611d11bae6ef208fecead0.etc2.ctex"]
 
 [params]
 

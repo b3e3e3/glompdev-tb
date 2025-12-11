@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfyrmpd3guouc"
 path.s3tc="res://.godot/imported/Weave_01-256x256.png-955fcb9388acd06cf56c4f9f23d8505e.s3tc.ctex"
+path.etc2="res://.godot/imported/Weave_01-256x256.png-955fcb9388acd06cf56c4f9f23d8505e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://trenchbroom/textures/Weave_01-256x256.png"
-dest_files=["res://.godot/imported/Weave_01-256x256.png-955fcb9388acd06cf56c4f9f23d8505e.s3tc.ctex"]
+dest_files=["res://.godot/imported/Weave_01-256x256.png-955fcb9388acd06cf56c4f9f23d8505e.s3tc.ctex", "res://.godot/imported/Weave_01-256x256.png-955fcb9388acd06cf56c4f9f23d8505e.etc2.ctex"]
 
 [params]
 

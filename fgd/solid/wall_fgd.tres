@@ -5,8 +5,10 @@
 
 [resource]
 script = ExtResource("1_26f7m")
+build_occlusion = true
 collision_shape_type = 2
 collision_layer = 17
+add_collision_shape_to_face_indices_metadata = true
 script_class = ExtResource("2_ep68l")
 classname = "env_wall"
 description = "A wall, optionally climbable (ladders), slideable, and swappable."

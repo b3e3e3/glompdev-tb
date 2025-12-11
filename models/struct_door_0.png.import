@@ -2,18 +2,21 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b7j3da8udn0r"
-path.s3tc="res://.godot/imported/Elements_01-256x256.png-a701d1a3dde40433878c4468ec1cc06c.s3tc.ctex"
-path.etc2="res://.godot/imported/Elements_01-256x256.png-a701d1a3dde40433878c4468ec1cc06c.etc2.ctex"
+uid="uid://db5nbl4kt34co"
+path.s3tc="res://.godot/imported/struct_door_0.png-8219019b60afc76de704dfc38f243e71.s3tc.ctex"
+path.etc2="res://.godot/imported/struct_door_0.png-8219019b60afc76de704dfc38f243e71.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
+generator_parameters={
+"md5": "ed65537f5071bee6566208ce2b740557"
+}
 
 [deps]
 
-source_file="res://trenchbroom/textures/Elements_01-256x256.png"
-dest_files=["res://.godot/imported/Elements_01-256x256.png-a701d1a3dde40433878c4468ec1cc06c.s3tc.ctex", "res://.godot/imported/Elements_01-256x256.png-a701d1a3dde40433878c4468ec1cc06c.etc2.ctex"]
+source_file="res://trenchbroom/models/struct_door_0.png"
+dest_files=["res://.godot/imported/struct_door_0.png-8219019b60afc76de704dfc38f243e71.s3tc.ctex", "res://.godot/imported/struct_door_0.png-8219019b60afc76de704dfc38f243e71.etc2.ctex"]
 
 [params]
 
