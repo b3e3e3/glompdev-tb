@@ -2,9 +2,9 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bpy3htir572xb"
-path.s3tc="res://.godot/imported/Dirt_01-256x256.png-14fd1e50b8b262372224507f17066035.s3tc.ctex"
-path.etc2="res://.godot/imported/Dirt_01-256x256.png-14fd1e50b8b262372224507f17066035.etc2.ctex"
+uid="uid://c5dqq01pxhfy4"
+path.s3tc="res://.godot/imported/bush2.png-884259db303f13fc3954c24d33a190a6.s3tc.ctex"
+path.etc2="res://.godot/imported/bush2.png-884259db303f13fc3954c24d33a190a6.etc2.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ metadata={
 
 [deps]
 
-source_file="res://trenchbroom/textures/Dirt_01-256x256.png"
-dest_files=["res://.godot/imported/Dirt_01-256x256.png-14fd1e50b8b262372224507f17066035.s3tc.ctex", "res://.godot/imported/Dirt_01-256x256.png-14fd1e50b8b262372224507f17066035.etc2.ctex"]
+source_file="res://trenchbroom/textures/sprites/bush2.png"
+dest_files=["res://.godot/imported/bush2.png-884259db303f13fc3954c24d33a190a6.s3tc.ctex", "res://.godot/imported/bush2.png-884259db303f13fc3954c24d33a190a6.etc2.ctex"]
 
 [params]
 
