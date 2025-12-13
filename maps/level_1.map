@@ -573,7 +573,7 @@
 // entity 23
 {
 "classname" "spawn_item"
-"origin" "0 800 352"
+"origin" "0 808 352"
 "angle" "0"
 }
 // entity 24
